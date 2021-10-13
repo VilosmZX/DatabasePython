@@ -77,6 +77,7 @@ class DatabaseProgram(object):
 
 a = DatabaseProgram()
 a.start()
+# DatabaseProgram().start()
 
 			
 	
